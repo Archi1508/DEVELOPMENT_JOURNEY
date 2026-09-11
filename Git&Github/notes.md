@@ -1,0 +1,1 @@
+A Version Control System (VCS) is software that tracks changes to files over time, allowing developers to save versions, compare changes, collaborate with others, and restore previous versions when needed. Git is the most widely used distributed version control system.
